@@ -1,7 +1,3 @@
----
-title: Release Notes
----
-
 ## RengeOS 2026.02.12
 ### Minimal Edition
 
