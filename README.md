@@ -5,6 +5,7 @@
 - **Change**:
 + We've added a NiriWM Edition for **RengeOS**, yay!
 + Fixed the ``ros-reborn`` tool that couldn't create kernel presets.
++ The ``Recovery Mode`` partition size requirement has been increased from **7GB** to **10GB** to avoid memory shortage errors when containing airootfs in NiriWM Edition.
 
 ### Minimal Edition
 
