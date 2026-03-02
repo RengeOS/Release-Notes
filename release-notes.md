@@ -1,9 +1,9 @@
 ## RengeOS 2026.03.02
 
-- **Notes**: Currently, the ros-reborn-system-ota tool only retrieves airootfs and the kernel of the latest minimal version of **RengeOS**, so in the next release we will be able to choose between the Minimal Edition and NiriWM Edition and the documentation will gradually be improved.
+- **Notes**: Currently, the ``ros-reborn-system-ota`` tool only retrieves airootfs and the kernel of the latest minimal version of **RengeOS**, so in the next release we will be able to choose between the Minimal Edition and NiriWM Edition and the documentation will gradually be improved.
 
 - **Change**:
-+ We've added a Niri WM version for RengeOS, yay!
++ We've added a NiriWM Edition for **RengeOS**, yay!
 + Fixed the ``ros-reborn`` tool that couldn't create kernel presets.
 
 ### Minimal Edition
