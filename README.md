@@ -1,6 +1,6 @@
 ## RengeOS 2026.03.06
 
-- **Notes**: We'll have KDE Edition coming soon, so stay tuned!
+- **Notes**: We will have KDE Edition coming soon, so stay tuned!
 
 - **Change**:
 + Adding the ``fastfetch-git``, ``zenity`` packages and keybind(Mod+Alt+W) allows changing the wallpaper on NiriWM-Edition.
